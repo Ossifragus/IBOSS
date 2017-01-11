@@ -1,0 +1,12 @@
+Package: IBOSS
+Title: Information-Based Optimal Subdata Selection
+Version: 0.0.0.0000
+Author: HaiYing Wang <haiying.wang@unh.edu>
+Maintainer: HaiYing Wang <haiying.wang@unh.edu>
+Description: It implement the Information-Based Optimal Subdata Selection for Linear Regression.
+Depends:
+    R (>= 3.3.1)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
